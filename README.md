@@ -1,0 +1,2 @@
+# ConfigRepository
+这是一个SpringCloudConfig配置仓库,包含很多应用的配置信息
